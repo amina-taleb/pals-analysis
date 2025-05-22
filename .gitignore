@@ -1,0 +1,43 @@
+# ───── ENVIRONNEMENT PYTHON ─────
+venv/
+.env
+*.env
+
+# ───── FICHIERS PYTHON TEMPORAIRES ─────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ───── NOTEBOOKS ─────
+.ipynb_checkpoints/
+
+# ───── DONNÉES ─────
+data/raw/
+data/processed/
+*.csv
+*.xls
+*.xlsx
+
+# ───── BASES DE DONNÉES ─────
+*.db
+*.sqlite
+*.sql
+
+# ───── LOGS ─────
+*.log
+
+# ───── FICHIERS SYSTEME / OS ─────
+.DS_Store
+Thumbs.db
+
+# ───── CONFIGURATION ÉDITEURS ─────
+.vscode/
+.idea/
+
+# ───── STREAMLIT ─────
+.streamlit/config.toml
+.streamlit/cache/
+
+# ───── AUTRES ─────
+slides_presentation.pdf
