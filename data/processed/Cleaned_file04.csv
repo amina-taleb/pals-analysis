@@ -1,0 +1,139 @@
+ID,English name,Chinese name,Volume size,Food intake,night shift,Total skills,Make a fire,watering,planting,generate electricity,manual,collection,logging,Mining,pharmaceutical,cool down,pasture,carry,Handling speed,ranch items,pasture minimum output,The largest ranch (Rank = partner skill level)
+1,lamball,mian youyou,smallest,2,no,3,0,0,0,0,1,0,0,0,0,0,1,1,160,wool,1,rank
+2,cattiva,naughty cat,smallest,2,no,4,0,0,0,0,1,1,0,1,0,0,0,1,160,no,not_comptible,not_concerned
+3,chikipi,pipi chicken,smallest,1,no,2,0,0,0,0,0,1,0,0,0,0,1,0,not_compatible,egg,1,rank
+4,lifmunk,green leaf rat,smallest,1,no,5,0,0,1,0,1,1,1,0,1,0,0,0,not_compatible,no,not_comptible,not_concerned
+5,foxparks,tinder fox,smallest,2,no,1,1,0,0,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+6,fuack,surf duck,smallest,2,no,3,0,1,0,0,1,0,0,0,0,0,0,1,202,no,not_comptible,not_concerned
+7,sparkit,volt meow,smallest,2,no,3,0,0,0,1,1,0,0,0,0,0,0,1,270,no,not_comptible,not_concerned
+8,tanzee,neolepithecus,smallest,2,no,5,0,0,1,0,1,1,1,0,0,0,0,1,174,no,not_comptible,not_concerned
+9,rooby,fire deer,small,3,no,1,1,0,0,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+10,pengullet,keimaru,smallest,2,no,4,0,1,0,0,1,0,0,0,0,1,0,1,265,no,not_comptible,not_concerned
+11,penking,king keimaru,big,8,no,10,0,2,0,0,2,0,0,2,0,2,0,2,280,no,not_comptible,not_concerned
+12,jolthog,electric rat,smallest,2,no,1,0,0,0,1,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+12,jolthog cryst,ice agouti,smallest,2,no,1,0,0,0,0,0,0,0,0,0,1,0,0,not_compatible,no,not_comptible,not_concerned
+13,gumoss,ye nini,smallest,1,no,1,0,0,1,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+13,gumoss (special),ye ni ni (special),smallest,1,no,1,0,0,1,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+14,vixy,tamamo fox,smallest,1,no,2,0,0,0,0,0,1,0,0,0,0,1,0,not_compatible,palu ball advanced palu ball arrow gold coin,"according to partner skill level 1,1,2,1,1 0,0,0,1,1 1,1,2,3,4 10,20,30,40,50","according to partner skill level 1,2,3,1,2 0,0,0,1,1 1,2,3,4,5 10,20,30,40,50"
+15,hoocrates,tikar,smallest,3,yes,1,0,0,0,0,0,1,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+16,teafant,pot elephant,medium,2,no,1,0,1,0,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+17,depresso,look at the devil,smallest,2,yes,3,0,0,0,0,1,0,0,1,0,0,0,1,100,no,not_comptible,not_concerned
+18,cremis,miruffy,smallest,2,no,2,0,0,0,0,0,1,0,0,0,0,1,0,not_compatible,wool,1,rank
+19,daedream,sleep demon,smallest,3,yes,3,0,0,0,0,1,1,0,0,0,0,0,1,220,no,not_comptible,not_concerned
+20,rushoar,sage pig,small,3,no,1,0,0,0,0,0,0,0,1,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+21,nox,lunati,smallest,2,no,1,0,0,0,0,0,1,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+22,fuddler,escape rat,smallest,2,no,3,0,0,0,0,1,0,0,1,0,0,0,1,240,no,not_comptible,not_concerned
+23,killamari,squid,smallest,3,yes,3,0,0,0,0,0,1,0,0,0,0,0,2,260,no,not_comptible,not_concerned
+24,mau,meowster,smallest,1,yes,1,0,0,0,0,0,0,0,0,0,0,1,0,not_compatible,gold,10,rank*10
+24,mau cryst,ice cream,smallest,1,no,2,0,0,0,0,0,0,0,0,0,1,1,0,not_compatible,gold,10,rank*10
+25,celaray,rumiel,medium,3,no,2,0,1,0,0,0,0,0,0,0,0,0,1,350,no,not_comptible,not_concerned
+26,direhowl,hunting wolves,small,3,no,1,0,0,0,0,0,1,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+27,tocotoco,fried egg bird,small,2,no,1,0,0,0,0,0,1,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+28,flopie,bona rabbit,smallest,3,no,5,0,0,1,0,1,1,0,0,1,0,0,1,250,no,not_comptible,not_concerned
+29,mozzarina,boba cow,small,3,no,1,0,0,0,0,0,0,0,0,0,0,1,0,not_compatible,milk,1,rank
+30,bristla,thorn fairy,small,5,no,6,0,0,1,0,1,1,0,0,2,0,0,1,250,no,not_comptible,not_concerned
+31,gobfin ignis,red shark,small,3,no,4,2,0,0,0,1,0,0,0,0,0,0,1,120,no,not_comptible,not_concerned
+31,gobfin,sharkboy,small,3,no,4,0,2,0,0,1,0,0,0,0,0,0,1,120,no,not_comptible,not_concerned
+32,hangyu crystal,icebound spirit,smallest,2,no,5,0,0,0,0,1,1,0,0,0,1,0,2,250,no,not_comptible,not_concerned
+32,hangyu,hanging spirit,smallest,2,no,4,0,0,0,0,1,1,0,0,0,0,0,2,250,no,not_comptible,not_concerned
+33,mossanda,ye panda,big,5,no,9,0,0,2,0,2,0,2,0,0,0,0,3,275,no,not_comptible,not_concerned
+33,mossanda lux,lei panda,big,5,no,9,0,0,0,2,2,0,2,0,0,0,0,3,275,no,not_comptible,not_concerned
+34,woolipop,marshmallow,small,2,no,1,0,0,0,0,0,0,0,0,0,0,1,0,not_compatible,marshmallow,1,rank
+35,caprity,bush sheep,small,4,no,3,0,0,2,0,0,0,0,0,0,0,1,0,not_compatible,red wild berries,1,rank
+36,melpaca,melupa,medium,3,no,1,0,0,0,0,0,0,0,0,0,0,1,0,not_compatible,wool,2,1+rank
+37,eikthyrdeer,zixia deer,big,5,no,2,0,0,0,0,0,0,2,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+37,eikthyrdeer terra,only a deer,big,5,no,2,0,0,0,0,0,0,2,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+38,nitewing,swift falcon,big,7,no,2,0,0,0,0,0,2,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+39,ribunny,ji xiaotu,smallest,2,no,3,0,0,0,0,1,1,0,0,0,0,0,1,172,no,not_comptible,not_concerned
+40,incineram,balrog sheep,medium,4,yes,6,1,0,0,0,2,0,0,1,0,0,0,2,320,no,not_comptible,not_concerned
+40,incineram noct,dark demon sheep,medium,4,yes,5,0,0,0,0,2,0,0,1,0,0,0,2,320,no,not_comptible,not_concerned
+41,cinnamoth,huan yue butterfly,medium,3,no,3,0,0,2,0,0,0,0,0,1,0,0,0,not_compatible,no,not_comptible,not_concerned
+42,arsox,blazing ox,medium,5,no,3,2,0,0,0,0,0,1,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+43,dumud,pa pa pa catfish,medium,4,no,4,0,1,0,0,0,0,0,2,0,0,0,1,300,no,not_comptible,not_concerned
+44,cawgnito,black crow hermit,medium,5,yes,1,0,0,0,0,0,0,1,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+45,leezpunk ignis,hot-blooded lizard,small,3,no,4,1,0,0,0,1,1,0,0,0,0,0,1,270,no,not_comptible,not_concerned
+45,leezpunk,punk lizard,small,3,yes,3,0,0,0,0,1,1,0,0,0,0,0,1,270,no,not_comptible,not_concerned
+46,loupmoon,moonscythe demon,medium,5,yes,2,0,0,0,0,2,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+47,galeclaw,tianqinniao,medium,4,no,2,0,0,0,0,0,2,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+48,robinquill,feather archer,medium,3,no,9,0,0,1,0,2,2,1,0,1,0,0,2,400,no,not_comptible,not_concerned
+48,robinquill terra,mountain shooter,medium,3,no,8,0,0,0,0,2,2,1,0,1,0,0,2,400,no,not_comptible,not_concerned
+49,gorirat,iron fist ape,small,3,no,6,0,0,0,0,1,0,2,0,0,0,0,3,250,no,not_comptible,not_concerned
+50,beegarde,knight bee,medium,3,no,8,0,0,1,0,1,1,1,0,1,0,1,2,350,honey,1,rank
+51,elizabee,queen bee,big,7,no,9,0,0,2,0,2,2,1,0,2,0,0,0,not_compatible,no,not_comptible,not_concerned
+52,grintale,laughing nightmare cat,big,4,no,2,0,0,0,0,0,2,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+53,swee,mao duster,smallest,2,no,2,0,0,0,0,0,1,0,0,0,1,0,0,not_compatible,no,not_comptible,not_concerned
+54,sweepa,dad mao,big,3,no,4,0,0,0,0,0,2,0,0,0,2,0,0,not_compatible,no,not_comptible,not_concerned
+55,chillet,whirling weasel,medium,3,no,2,0,0,0,0,0,1,0,0,0,1,0,0,not_compatible,no,not_comptible,not_concerned
+56,univolt,thunder wildebeest,medium,5,no,3,0,0,0,2,0,0,1,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+57,foxcicle,blowing snow fox,small,3,no,2,0,0,0,0,0,0,0,0,0,2,0,0,not_compatible,no,not_comptible,not_concerned
+58,pyrin,fire unicorn,big,5,no,3,2,0,0,0,0,0,1,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+58,pyrin noct,evil unicorn,big,5,yes,3,2,0,0,0,0,0,1,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+59,reindrix,deer in severe winter,medium,7,no,4,0,0,0,0,0,0,2,0,0,2,0,0,not_compatible,no,not_comptible,not_concerned
+60,rayhound,thunder dog,medium,5,no,2,0,0,0,2,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+61,kitsun,blue flame wolf,medium,4,no,2,2,0,0,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+62,dazzi,thunder boy,smallest,2,no,3,0,0,0,1,1,0,0,0,0,0,0,1,300,no,not_comptible,not_concerned
+63,lunaris,mystia,medium,2,no,5,0,0,0,0,3,1,0,0,0,0,0,1,315,no,not_comptible,not_concerned
+64,dinossom,corolla dragon,big,6,no,5,0,0,2,0,0,0,3,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+64,dinossom lux,thunder guanlong,big,6,no,4,0,0,0,2,0,0,2,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+65,surfent,water-sliding snake,medium,5,no,2,0,2,0,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+65,surfent terra,quicksand snake,medium,5,no,1,0,0,0,0,0,1,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+66,maraith,soul eater,medium,3,yes,3,0,0,0,0,0,2,0,1,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+67,digtoise,rock crusher turtle,medium,5,no,3,0,0,0,0,0,0,0,3,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+68,tombat,cat bat monster,medium,5,yes,6,0,0,0,0,0,2,0,2,0,0,0,2,270,no,not_comptible,not_concerned
+69,lovander,fraternity lizard,big,5,yes,7,0,0,0,0,2,0,0,1,2,0,0,2,460,no,not_comptible,not_concerned
+70,flambelle,rong yan niang,smallest,2,no,4,1,0,0,0,1,0,0,0,0,0,1,1,140,fire breathing organ,1,rank
+71,vanwyrm,fenggelong,big,6,yes,4,1,0,0,0,0,0,0,0,0,0,0,3,475,no,not_comptible,not_concerned
+71,vanwyrm cryst,frost song dragon,big,6,yes,5,0,0,0,0,0,0,0,0,0,2,0,3,475,no,not_comptible,not_concerned
+72,bushi,wave blade samurai,medium,4,no,9,2,0,0,0,1,1,3,0,0,0,0,2,320,no,not_comptible,not_concerned
+73,beakon,thunderbird,big,7,no,6,0,0,0,2,0,1,0,0,0,0,0,3,375,no,not_comptible,not_concerned
+74,ragnahawk,flamingo,big,7,no,6,3,0,0,0,0,0,0,0,0,0,0,3,375,no,not_comptible,not_concerned
+75,katress,dark witch cat,medium,5,yes,6,0,0,0,0,2,0,0,0,2,0,0,2,292,no,not_comptible,not_concerned
+76,wixen,flame witch fox,medium,5,no,7,2,0,0,0,3,0,0,0,0,0,0,2,292,no,not_comptible,not_concerned
+77,verdash,spring rabbit,medium,3,no,12,0,0,2,0,3,3,2,0,0,0,0,2,275,no,not_comptible,not_concerned
+78,vaelet,verita,medium,3,no,10,0,0,2,0,2,2,0,0,3,0,0,1,275,no,not_comptible,not_concerned
+79,sibelyx,silk moth,big,5,no,5,0,0,0,0,0,0,0,0,2,2,1,0,not_compatible,high quality cloth,1,rank
+80,elphidran,faerie dragon,big,6,no,2,0,0,0,0,0,0,2,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+80,elphidran aqua,water spirit dragon,big,6,no,5,0,3,0,0,0,0,2,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+81,kelpsea ignis,huo linger,smallest,1,no,1,1,0,0,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+81,kelpsea,shui linger,smallest,1,no,1,0,1,0,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+82,azurobe,bihailong,big,6,no,3,0,3,0,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+83,cryolinx,ice thorn beast,big,7,no,6,0,0,0,0,1,0,2,0,0,3,0,0,not_compatible,no,not_comptible,not_concerned
+84,blazehowl,hellfire king,big,7,no,5,3,0,0,0,0,0,2,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+84,blazehowl noct,hell king,big,7,yes,5,3,0,0,0,0,0,2,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+85,relaxaurus,pecorone,maximum,7,no,3,0,2,0,0,0,0,0,0,0,0,0,1,150,no,not_comptible,not_concerned
+85,relaxaurus lux,parker,maximum,7,no,4,0,0,0,3,0,0,0,0,0,0,0,1,150,no,not_comptible,not_concerned
+86,broncherry,lian lilong,maximum,7,no,3,0,0,3,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+86,broncherry aqua,allother,maximum,7,no,3,0,3,0,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+87,petallia,hualina,medium,3,no,10,0,0,3,0,2,2,0,0,2,0,0,1,350,no,not_comptible,not_concerned
+88,reptyro,lava beast,big,5,no,6,3,0,0,0,0,0,0,3,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+88,ice reptyro,frost beast,big,5,no,6,0,0,0,0,0,0,0,3,0,3,0,0,not_compatible,no,not_comptible,not_concerned
+89,kingpaca,king melupa,maximum,7,no,1,0,0,0,0,0,1,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+89,ice kingpaca,ice emperor melpa,maximum,7,no,4,0,0,0,0,0,1,0,0,0,3,0,0,not_compatible,no,not_comptible,not_concerned
+90,mammorest,mammoth,maximum,8,no,6,0,0,2,0,0,0,2,2,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+90,mammorest cryst,snow mammoth,maximum,8,no,6,0,0,0,0,0,0,2,2,0,2,0,0,not_compatible,no,not_comptible,not_concerned
+91,wumpo botan,green moss velvet,big,8,no,10,0,0,1,0,2,0,3,0,0,0,0,4,150,no,not_comptible,not_concerned
+91,wumpo,white velvet snow monster,big,8,no,11,0,0,0,0,2,0,3,0,0,2,0,4,150,no,not_comptible,not_concerned
+92,warsect,kaigres,big,6,no,8,0,0,1,0,1,0,3,0,0,0,0,3,110,no,not_comptible,not_concerned
+93,fenglope,cloud sea deer,small,6,no,2,0,0,0,0,0,0,2,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+94,felbat,night mephit,medium,5,yes,3,0,0,0,0,0,0,0,0,3,0,0,0,not_compatible,no,not_comptible,not_concerned
+95,quivern,tianyulong,big,4,no,8,0,0,0,0,1,2,0,2,0,0,0,3,470,no,not_comptible,not_concerned
+96,blazamut,flame glory,maximum,9,no,7,3,0,0,0,0,0,0,4,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+97,helzephyr,thunderbird,big,8,yes,3,0,0,0,0,0,0,0,0,0,0,0,3,450,no,not_comptible,not_concerned
+98,astegon,demon dragon,maximum,9,yes,5,0,0,0,0,1,0,0,4,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+99,menasting,dark armored scorpion,big,7,yes,5,0,0,0,0,0,0,2,3,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+100,anubis,anubis,medium,6,no,9,0,0,0,0,4,0,0,3,0,0,0,2,480,no,not_comptible,not_concerned
+101,jormuntide ignis,teng yanlong,maximum,7,no,4,4,0,0,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+101,jormuntide,sea-covering dragon,maximum,7,no,4,0,4,0,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+102,suzaku,suzaku,maximum,8,no,3,3,0,0,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+102,suzaku aqua,qingque,maximum,8,no,3,0,3,0,0,0,0,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+103,grizzbolt,lightning bear,big,7,no,10,0,0,0,3,2,0,2,0,0,0,0,3,210,no,not_comptible,not_concerned
+104,lyleen,lily queen,big,6,no,12,0,0,4,0,3,2,0,0,3,0,0,0,not_compatible,no,not_comptible,not_concerned
+104,lyleen noct,black moon queen,big,6,no,8,0,0,0,0,3,2,0,0,3,0,0,0,not_compatible,no,not_comptible,not_concerned
+105,faleris,horus,big,8,no,6,3,0,0,0,0,0,0,0,0,0,0,3,500,no,not_comptible,not_concerned
+106,orserk,pollux,big,7,no,9,0,0,0,4,2,0,0,0,0,0,0,3,250,no,not_comptible,not_concerned
+107,shadowbeak,heterogeneous griffin,big,8,yes,1,0,0,0,0,0,1,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+108,paladius,knight of light,big,9,no,4,0,0,0,0,0,0,2,2,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+109,necromus,chaos knight,big,9,yes,4,0,0,0,0,0,0,2,2,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+110,frostallion,winter caller,big,7,no,4,0,0,0,0,0,0,0,0,0,4,0,0,not_compatible,no,not_comptible,not_concerned
+110,frostallion noct,night caller,big,7,yes,4,0,0,0,0,0,4,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned
+111,jetragon,vortex dragon,maximum,9,no,3,0,0,0,0,0,3,0,0,0,0,0,0,not_compatible,no,not_comptible,not_concerned

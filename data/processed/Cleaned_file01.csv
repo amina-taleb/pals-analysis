@@ -1,0 +1,115 @@
+creature_name,HP_creature,Remote_attack_creature,Speed_creature
+Chaos Knight BOSS,260.0,90.0,1000.0
+Chaos Knight,130.0,75.0,900.0
+Winter Caller Beast BOSS,420.0,80.0,1200.0
+Winter Caller,140.0,75.0,1100.0
+Night Caller BOSS,420.0,90.0,1150.0
+Night Caller,140.0,85.0,1050.0
+Vortex Dragon BOSS,330.0,82.5,1000.0
+Vortex Dragon,110.0,82.5,1000.0
+Holy Light Knight BOSS,260.0,82.5,900.0
+Knight of Light,130.0,82.5,900.0
+Heterogeneous Griffin BOSS,234.0,82.5,1300.0
+Heterogeneous Griffin,234.0,82.5,1200.0
+Ye Panda BOSS,234.0,82.5,800.0
+Ye Panda,234.0,82.5,700.0
+Flame Glory BOSS,234.0,82.5,1000.0
+Flame Glory,234.0,82.5,900.0
+Severe Winter Deer BOSS,234.0,82.5,800.0
+Deer in severe winter,234.0,82.5,700.0
+Thunderbird BOSS,234.0,82.5,1300.0
+Thunderbird,234.0,82.5,1200.0
+Snow Mammoth BOSS,234.0,82.5,700.0
+snow mammoth,234.0,82.5,600.0
+Evil Qilin BOSS,234.0,82.5,1400.0
+evil unicorn,234.0,82.5,1300.0
+Laughing Nightmare Cat BOSS,234.0,82.5,900.0
+Laughing Nightmare Cat,234.0,82.5,800.0
+Tianyulong BOSS,234.0,82.5,1050.0
+Tianyulong,234.0,82.5,950.0
+Teng Yanlong BOSS,234.0,82.5,800.0
+Teng Yanlong,234.0,82.5,700.0
+Firebird BOSS,234.0,82.5,1400.0
+Flamingo,234.0,82.5,1300.0
+Water Spirit Dragon BOSS,234.0,82.5,900.0
+Water Spirit Dragon,234.0,82.5,800.0
+Frost Song Dragon BOSS,234.0,82.5,950.0
+Frost Song Dragon,234.0,82.5,850.0
+Soul-Eating Beast BOSS,234.0,82.5,900.0
+Soul Eater,234.0,82.5,800.0
+Mammoth BOSS,234.0,82.5,700.0
+Mammoth,234.0,82.5,600.0
+Lava Beast BOSS,234.0,82.5,650.0
+Lava Beast,234.0,82.5,550.0
+Qingque BOSS,234.0,82.5,1200.0
+Qingque,234.0,82.5,1100.0
+Jiyuelu BOSS,234.0,82.5,1000.0
+Only a deer,234.0,82.5,900.0
+Thunder Dog BOSS,234.0,82.5,1200.0
+thunder dog,234.0,82.5,1150.0
+Pekeron BOSS,234.0,82.5,900.0
+Pecorone,234.0,82.5,800.0
+Pike Dragon BOSS,234.0,82.5,900.0
+Parker,234.0,82.5,800.0
+Demon Dragon BOSS,234.0,82.5,900.0
+Demon Dragon,234.0,82.5,800.0
+Melupa BOSS,234.0,82.5,900.0
+Melupa,234.0,82.5,800.0
+Daddy Mao BOSS,234.0,82.5,600.0
+Dad Mao,234.0,82.5,500.0
+Green Moss Velvet Monster BOSS,234.0,82.5,650.0
+Green Moss Velvet,234.0,82.5,550.0
+Quicksand Snake BOSS,234.0,82.5,750.0
+quicksand snake,234.0,82.5,650.0
+Lianlilong BOSS,234.0,82.5,600.0
+Lian Lilong,234.0,82.5,500.0
+Leipanda BOSS,234.0,82.5,800.0
+Lei Panda,234.0,82.5,700.0
+Thunderbird BOSS,234.0,82.5,1200.0
+Thunderbird,234.0,82.5,1100.0
+Thunderhorne BOSS,234.0,82.5,1200.0
+thunder wildebeest,234.0,82.5,1100.0
+Thunder Crown Dragon BOSS,234.0,82.5,800.0
+Thunder Guanlong,234.0,82.5,700.0
+King Melupa BOSS,234.0,82.5,800.0
+King Melupa,234.0,82.5,700.0
+Elf Dragon BOSS,234.0,82.5,900.0
+Faerie Dragon,234.0,82.5,800.0
+Whirlpool Weasel BOSS,234.0,82.5,900.0
+Whirling Weasel,234.0,82.5,800.0
+Gale Falcon BOSS,234.0,82.5,850.0
+Swift Falcon,234.0,82.5,750.0
+Fire Qilin BOSS,234.0,82.5,1400.0
+fire unicorn,234.0,82.5,1300.0
+Night Caller BOSS,234.0,82.5,1600.0
+Night Caller,234.0,82.5,1500.0
+Winter Caller Beast BOSS,234.0,82.5,1600.0
+Winter Caller,234.0,82.5,1500.0
+Water Skiing Snake BOSS,234.0,82.5,750.0
+water-sliding snake,234.0,82.5,650.0
+Corolla Dragon BOSS,234.0,82.5,800.0
+Corolla dragon,234.0,82.5,700.0
+Horus BOSS,234.0,82.5,1500.0
+Horus,234.0,82.5,1400.0
+Frost Beast BOSS,234.0,82.5,650.0
+Frost Beast,234.0,82.5,550.0
+Allison BOSS,234.0,82.5,600.0
+Allother,234.0,82.5,500.0
+Sea-covering Dragon BOSS,234.0,82.5,800.0
+Sea-covering dragon,234.0,82.5,700.0
+Fenggelong BOSS,234.0,82.5,950.0
+Fenggelong,234.0,82.5,850.0
+Blazing Ox BOSS,234.0,82.5,900.0
+Blazing Ox,234.0,82.5,800.0
+Grassy Pig BOSS,234.0,82.5,800.0
+sage pig,234.0,82.5,700.0
+Blue Flame Wolf BOSS,234.0,82.5,1000.0
+Blue Flame Wolf,234.0,82.5,900.0
+Ice Emperor Melupa BOSS,234.0,82.5,800.0
+Ice Emperor Melpa,234.0,82.5,700.0
+Bihailong BOSS,234.0,82.5,900.0
+Bihailong,234.0,82.5,800.0
+Lightning Bear BOSS,234.0,82.5,650.0
+Lightning Bear,234.0,82.5,550.0
+White Velvet Snow Monster BOSS,234.0,82.5,650.0
+White Velvet Snow Monster,234.0,82.5,550.0
